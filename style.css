@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem;
+}
+/* Glitch Effect */
+h1{
+    text-shadow: red -4px 0,cyan 4px 0;
+    font-size: 10rem;
+}
